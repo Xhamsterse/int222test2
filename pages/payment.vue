@@ -1,15 +1,12 @@
 <template>
-  <div>
-    <BaseNavbar />
-    <IndexGallery />
-    <IndexBlog />
-    <IndexBlog />
-  </div>
+    <div>
+        <BaseNavbar />
+        <ProgressbarPayment />
+        <PaymentContent />
+    </div>
 </template>
-
 <script lang="ts">
 import Vue from 'vue'
-
 
 
 

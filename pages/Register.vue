@@ -1,16 +1,11 @@
 <template>
   <div>
-    <BaseNavbar />
-    <IndexGallery />
-    <IndexBlog />
-    <IndexBlog />
+    <Register />
   </div>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
-
-
 
 
 

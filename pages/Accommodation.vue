@@ -1,9 +1,8 @@
 <template>
   <div>
     <BaseNavbar />
-    <IndexGallery />
-    <IndexBlog />
-    <IndexBlog />
+    <AccommodationsCard />
+    <AccommodationsPricing />
   </div>
 </template>
 
